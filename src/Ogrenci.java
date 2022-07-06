@@ -5,6 +5,7 @@ public class Ogrenci {
         System.out.println("Merhaba Dünya2");
         System.out.println("Merhaba Dünya2");
         System.out.println("bbbzzzz");
+        System.out.println("YAYAYAYAYA");
 
 
     }
